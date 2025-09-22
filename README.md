@@ -7,9 +7,9 @@
 
 - ⚡ Fun fact **I am an Pianist since the age of 6 and like drawing sometimes**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Socials:</h3>
 <p align="left">
-<a href="https://instagram.com/dxvid_horn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dxvid_horn" height="30" width="40" /></a>
+<a href="https://instagram.com/dxvid_hrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dxvid_horn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
