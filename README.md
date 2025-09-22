@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David</h1>
+<h1 align="center">Hi, I'm David 🐈‍⬛</h1>
 <h3 align="center">A subtile programmer from germany</h3>
 
 - 🌱 I’m currently learning **Java**
